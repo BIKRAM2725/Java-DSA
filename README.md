@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/BIKRAM2725/Java-DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -32,6 +33,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/BIKRAM2725/Java-DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
