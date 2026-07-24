@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/BIKRAM2725/Java-DSA/tree/master/0062-unique-paths) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/BIKRAM2725/Java-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/BIKRAM2725/Java-DSA/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/BIKRAM2725/Java-DSA/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/BIKRAM2725/Java-DSA/tree/master/0790-domino-and-tromino-tiling) |
@@ -34,4 +36,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BIKRAM2725/Java-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
