@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/BIKRAM2725/Java-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,9 @@
 |  |
 | ------- |
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
