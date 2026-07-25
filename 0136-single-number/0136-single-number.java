@@ -10,3 +10,10 @@ class Solution {
         return ans;
     }
 }
+
+// XOR (^) Rules
+
+// Rule 1 : a ^ a = 0
+// Rule 2 : a ^ 0 = a
+// Rule 3 : 2 ^ 5 ^ 2 = 2 ^ 2 ^ 5
+//         = 5
