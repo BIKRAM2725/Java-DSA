@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BIKRAM2725/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/BIKRAM2725/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/BIKRAM2725/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BIKRAM2725/Java-DSA/tree/master/1768-merge-strings-alternately) |
@@ -29,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BIKRAM2725/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/BIKRAM2725/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/BIKRAM2725/Java-DSA/tree/master/0198-house-robber) |
@@ -63,4 +65,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0136-single-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/BIKRAM2725/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
