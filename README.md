@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/BIKRAM2725/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BIKRAM2725/Java-DSA/tree/master/1768-merge-strings-alternately) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/BIKRAM2725/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [0485-max-consecutive-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BIKRAM2725/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/BIKRAM2725/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/BIKRAM2725/Java-DSA/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/BIKRAM2725/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
