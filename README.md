@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BIKRAM2725/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/BIKRAM2725/Java-DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/BIKRAM2725/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/BIKRAM2725/Java-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -26,6 +27,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BIKRAM2725/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0072-edit-distance](https://github.com/BIKRAM2725/Java-DSA/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/BIKRAM2725/Java-DSA/tree/master/1768-merge-strings-alternately) |
@@ -90,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BIKRAM2725/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BIKRAM2725/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
