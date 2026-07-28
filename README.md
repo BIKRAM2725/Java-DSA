@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BIKRAM2725/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/BIKRAM2725/Java-DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/BIKRAM2725/Java-DSA/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/BIKRAM2725/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/BIKRAM2725/Java-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
 | Problem Name | Difficulty |
@@ -44,6 +45,7 @@
 | [0198-house-robber](https://github.com/BIKRAM2725/Java-DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/BIKRAM2725/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/BIKRAM2725/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BIKRAM2725/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BIKRAM2725/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -96,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BIKRAM2725/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/BIKRAM2725/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
