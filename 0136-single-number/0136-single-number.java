@@ -1,19 +1,34 @@
+import java.util.HashMap;
+
 class Solution {
     public int singleNumber(int[] nums) {
-        
-        int ans = 0;
+        if (nums.length == 1) return nums[0];
 
-        for(int i = 0 ; i < nums.length ; i++)
-        {
-            ans = ans ^ nums[i];
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         }
-        return ans;
+
+        for (int key : map.keySet()) {
+            if (map.get(key) == 1) {
+                return key;
+            }
+        }
+
+        return -1;
     }
 }
 
-// XOR (^) Rules
+// class Solution {
+//     public int singleNumber(int[] nums) {
 
-// Rule 1 : a ^ a = 0
-// Rule 2 : a ^ 0 = a
-// Rule 3 : 2 ^ 5 ^ 2 = 2 ^ 2 ^ 5
-//         = 5
+//         int ans = 0;
+        
+//         for(int j = 0; j < nums.length ; j++)
+//         {
+//             ans ^= nums[j];
+//         }
+//         return ans;
+//     }
+// }
