@@ -13,54 +13,79 @@
  *     }
  * }
  */
-
 class Solution {
 
-public static int hight(TreeNode root) {
+    int diameter = 0;
 
-    if(root == null)
-        return 0;
+    public int height(TreeNode root) {
 
-    if(root.left == null && root.right == null)
-        return 0;
+        if(root == null)
+            return 0;
 
-    return 1 + Math.max(
-        hight(root.left),
-        hight(root.right)
-    );
+        int leftHeight = height(root.left);
+        int rightHeight = height(root.right);
+
+        diameter = Math.max(diameter,leftHeight + rightHeight);
+        return 1 + Math.max(leftHeight, rightHeight);
+    }
+
+    public int diameterOfBinaryTree(TreeNode root) {
+
+        height(root);
+
+        return diameter;
+    }
 }
 
-public static int helper(TreeNode root) {
+// or 
 
-    if(root == null)
-        return 0;
+// class Solution {
 
-    int leftHeight = hight(root.left);
-    int rightHeight = hight(root.right);
+// public static int hight(TreeNode root) {
 
-    int diameterThroughRoot = leftHeight + rightHeight;
+//     if(root == null)
+//         return 0;
 
-    if(root.left != null)
-        diameterThroughRoot++;
+//     if(root.left == null && root.right == null)
+//         return 0;
 
-    if(root.right != null)
-        diameterThroughRoot++;
+//     return 1 + Math.max(
+//         hight(root.left),
+//         hight(root.right)
+//     );
+// }
 
-    int leftDiameter = helper(root.left);
-    int rightDiameter = helper(root.right);
+// public static int helper(TreeNode root) {
 
-    return Math.max(
-        diameterThroughRoot,
-        Math.max(leftDiameter, rightDiameter)
-    );
-}
+//     if(root == null)
+//         return 0;
 
-public int diameterOfBinaryTree(TreeNode root) {
+//     int leftHeight = hight(root.left);
+//     int rightHeight = hight(root.right);
 
-    return helper(root);
-}
+//     int diameterThroughRoot = leftHeight + rightHeight;
 
-}
+//     if(root.left != null)
+//         diameterThroughRoot++;
+
+//     if(root.right != null)
+//         diameterThroughRoot++;
+
+//     int leftDiameter = helper(root.left);
+//     int rightDiameter = helper(root.right);
+
+//     return Math.max(
+//         diameterThroughRoot,
+//         Math.max(leftDiameter, rightDiameter)
+//     );
+// }
+
+// public int diameterOfBinaryTree(TreeNode root) {
+
+//     return helper(root);
+// }
+
+// }
 
 
 
