@@ -15,6 +15,7 @@
 | [0062-unique-paths](https://github.com/BIKRAM2725/Java-DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/BIKRAM2725/Java-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/BIKRAM2725/Java-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BIKRAM2725/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0072-edit-distance](https://github.com/BIKRAM2725/Java-DSA/tree/master/0072-edit-distance) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/BIKRAM2725/Java-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/BIKRAM2725/Java-DSA/tree/master/1768-merge-strings-alternately) |
 ## Array
@@ -152,4 +154,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/BIKRAM2725/Java-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/BIKRAM2725/Java-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
