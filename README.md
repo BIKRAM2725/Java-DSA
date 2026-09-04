@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/BIKRAM2725/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/BIKRAM2725/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BIKRAM2725/Java-DSA/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BIKRAM2725/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BIKRAM2725/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0072-edit-distance](https://github.com/BIKRAM2725/Java-DSA/tree/master/0072-edit-distance) |
+| [0392-is-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BIKRAM2725/Java-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/BIKRAM2725/Java-DSA/tree/master/1768-merge-strings-alternately) |
@@ -63,6 +65,7 @@
 | [0072-edit-distance](https://github.com/BIKRAM2725/Java-DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BIKRAM2725/Java-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/BIKRAM2725/Java-DSA/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BIKRAM2725/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/BIKRAM2725/Java-DSA/tree/master/0790-domino-and-tromino-tiling) |
