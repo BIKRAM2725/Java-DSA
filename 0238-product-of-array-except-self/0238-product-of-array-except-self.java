@@ -1,61 +1,89 @@
 // class Solution {
 //     public int[] productExceptSelf(int[] nums) {
 
-//     int n = nums.length;
-    
-//     int[] left = new int[n];
-//     int[] right = new int[n];
+//         int n = nums.length;
 
-//     left[0] = 1;
-//     right[n-1] = 1;
+//         int[] ans = new int[n];
 
-//     for(int i = 1 ; i < n ; i++)
-//     {
-//         left[i] = nums[i-1] * left[i-1];
-//     }
+//         ans[0] = 1;
 
-//     for(int i = n-2 ; i >=0 ; i--)
-//     {
-//         right[i] = nums[i+1] * right[i+1];
-//     }
+//         for(int i = 1 ; i < n ; i++)
+//         {
+//             ans[i] = ans[i-1] * nums[i-1];
+            
+//         }
+//         int right = 1;
 
-//     for(int i = 0 ; i < n ; i++)
-//     {
-//         nums[i] = left[i] * right[i];
-//     }
-
-//     return nums;
-        
+//         for(int i = n-1 ; i >= 0 ; i--)
+//         {
+//             ans[i] = ans[i] * right;
+//             right = right * nums[i];
+//         }
+//         return ans;
 //     }
 // }
 
 
-// without array 
 
 
-
-
+// Divide not accected but
 
 class Solution {
     public int[] productExceptSelf(int[] nums) {
 
         int n = nums.length;
 
+        int zero = 0;
+
+        int product = 1;
+
         int[] ans = new int[n];
 
-        ans[0] = 1;
-
-        for(int i = 1 ; i < n ; i++)
+        for(int i : nums)
         {
-            ans[i] = ans[i-1] * nums[i-1];
-            
+            if(i == 0)
+            {
+                zero++;
+            }
+            else
+            {
+                product *= i;
+            }
         }
-        int right = 1;
 
-        for(int i = n-1 ; i >= 0 ; i--)
+        if(zero == 1)
         {
-            ans[i] = ans[i] * right;
-            right = right * nums[i];
+            for(int i = 0 ; i < n ; i++)
+            {
+                if(nums[i] == 0)
+                {
+                    ans[i] = product;
+                }
+                else
+                {
+                    ans[i] = 0;
+                }
+            }
+        }
+        else if (zero >= 2)
+        {
+             for(int i = 0 ; i < n ; i++)
+            {
+                
+                ans[i] = 0;
+            
+            }
+
+        }
+        else
+        {
+             for(int i = 0 ; i < n ; i++)
+            {
+                
+                    ans[i] = product / nums[i];
+                
+            }
+
         }
         return ans;
     }
