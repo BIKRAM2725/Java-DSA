@@ -54,23 +54,23 @@
 
 class Solution {
 
-    static int[] arr;
-
-    public int fibo (int n)
+    public int fibo (int n, int[] arr)
     {
         if (n == 0) return 0;
         if (n == 1) return 1;
         
-        if(arr[n] != 0) return arr[n];
+        if(arr[n] != 0) return arr[n]; // new
 
-        int ans = fibo(n-1) + fibo(n-2);
-        arr[n] = ans;
+        int ans = fibo(n-1, arr) + fibo(n-2, arr);
+
+        arr[n] = ans; // new
+
         return ans;
 
     }
     public int fib(int n) {
        
-       arr = new int[n + 1];
-       return fibo(n);
+       int[] arr = new int[n + 1];
+       return fibo(n, arr);
     }
 }
