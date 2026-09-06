@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/BIKRAM2725/Java-DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0509-fibonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/BIKRAM2725/Java-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BIKRAM2725/Java-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -67,6 +68,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BIKRAM2725/Java-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/BIKRAM2725/Java-DSA/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BIKRAM2725/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/BIKRAM2725/Java-DSA/tree/master/0790-domino-and-tromino-tiling) |
@@ -75,6 +77,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -167,4 +170,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BIKRAM2725/Java-DSA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
