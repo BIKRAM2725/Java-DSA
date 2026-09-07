@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BIKRAM2725/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/BIKRAM2725/Java-DSA/tree/main/0041-first-missing-positive/) | Hard |
+| [0063-unique-paths-ii](https://github.com/BIKRAM2725/Java-DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BIKRAM2725/Java-DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/BIKRAM2725/Java-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BIKRAM2725/Java-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/BIKRAM2725/Java-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/BIKRAM2725/Java-DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BIKRAM2725/Java-DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/BIKRAM2725/Java-DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BIKRAM2725/Java-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -132,6 +134,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/BIKRAM2725/Java-DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BIKRAM2725/Java-DSA/tree/main/0064-minimum-path-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BIKRAM2725/Java-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
