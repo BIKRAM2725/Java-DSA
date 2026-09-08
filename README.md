@@ -183,4 +183,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/BIKRAM2725/Java-DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 <!---LeetCode Topics End-->
