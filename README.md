@@ -59,6 +59,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BIKRAM2725/Java-DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/BIKRAM2725/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/BIKRAM2725/Java-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BIKRAM2725/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -95,6 +96,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BIKRAM2725/Java-DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0605-can-place-flowers](https://github.com/BIKRAM2725/Java-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BIKRAM2725/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
