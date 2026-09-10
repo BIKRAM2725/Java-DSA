@@ -57,6 +57,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/BIKRAM2725/Java-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/BIKRAM2725/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/BIKRAM2725/Java-DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BIKRAM2725/Java-DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -97,6 +98,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BIKRAM2725/Java-DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0605-can-place-flowers](https://github.com/BIKRAM2725/Java-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BIKRAM2725/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -201,4 +203,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/BIKRAM2725/Java-DSA/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
