@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/BIKRAM2725/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/BIKRAM2725/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/BIKRAM2725/Java-DSA/tree/master/1015-smallest-integer-divisible-by-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/BIKRAM2725/Java-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BIKRAM2725/Java-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/BIKRAM2725/Java-DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/BIKRAM2725/Java-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +195,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/BIKRAM2725/Java-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +212,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/BIKRAM2725/Java-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
