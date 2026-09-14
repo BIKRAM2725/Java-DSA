@@ -179,14 +179,17 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -228,4 +231,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/BIKRAM2725/Java-DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
