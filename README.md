@@ -222,6 +222,7 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/BIKRAM2725/Java-DSA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/BIKRAM2725/Java-DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/BIKRAM2725/Java-DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/BIKRAM2725/Java-DSA/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/BIKRAM2725/Java-DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
