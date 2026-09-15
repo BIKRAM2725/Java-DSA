@@ -218,6 +218,7 @@
 | ------- | ------- |
 | [0577-employee-bonus](https://github.com/BIKRAM2725/Java-DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/BIKRAM2725/Java-DSA/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0619-biggest-single-number](https://github.com/BIKRAM2725/Java-DSA/tree/main/0619-biggest-single-number/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/BIKRAM2725/Java-DSA/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/BIKRAM2725/Java-DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/BIKRAM2725/Java-DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
