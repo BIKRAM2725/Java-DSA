@@ -34,8 +34,13 @@ class Solution {
 
         arr.add(root.val);
         
-        for(Node c : root.children)
-        {
+        // for(Node c : root.children)
+        // {
+        //     preorder(c, arr);
+        // }
+
+        for (int i = 0; i < root.children.size(); i++) {
+            Node c = root.children.get(i);
             preorder(c, arr);
         }
     }
