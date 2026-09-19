@@ -152,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BIKRAM2725/Java-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -186,6 +187,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/BIKRAM2725/Java-DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +195,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/BIKRAM2725/Java-DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/BIKRAM2725/Java-DSA/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
