@@ -23,6 +23,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/BIKRAM2725/Java-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BIKRAM2725/Java-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BIKRAM2725/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/BIKRAM2725/Java-DSA/tree/main/0075-sort-colors/) | Medium |
@@ -49,6 +50,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/BIKRAM2725/Java-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BIKRAM2725/Java-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/BIKRAM2725/Java-DSA/tree/main/0041-first-missing-positive/) | Hard |
 | [0063-unique-paths-ii](https://github.com/BIKRAM2725/Java-DSA/tree/main/0063-unique-paths-ii/) | Medium |
@@ -109,6 +111,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/BIKRAM2725/Java-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/BIKRAM2725/Java-DSA/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/BIKRAM2725/Java-DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0605-can-place-flowers](https://github.com/BIKRAM2725/Java-DSA/tree/main/0605-can-place-flowers/) | Easy |
