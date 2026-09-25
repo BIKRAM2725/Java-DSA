@@ -73,6 +73,7 @@
 | [0605-can-place-flowers](https://github.com/BIKRAM2725/Java-DSA/tree/main/0605-can-place-flowers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/BIKRAM2725/Java-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/BIKRAM2725/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1004-max-consecutive-ones-iii](https://github.com/BIKRAM2725/Java-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BIKRAM2725/Java-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/BIKRAM2725/Java-DSA/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -145,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BIKRAM2725/Java-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/BIKRAM2725/Java-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BIKRAM2725/Java-DSA/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BIKRAM2725/Java-DSA/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Prefix Sum
@@ -152,6 +154,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/BIKRAM2725/Java-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BIKRAM2725/Java-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/BIKRAM2725/Java-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/BIKRAM2725/Java-DSA/tree/main/0162-find-peak-element/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/BIKRAM2725/Java-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
