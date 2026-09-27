@@ -15,40 +15,32 @@
  */
 class Solution {
     public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-
-    List<Integer> list1 = new ArrayList<>();
-    List<Integer> list2 = new ArrayList<>();
-
-    leafnode(root1, list1);
-    leafnode(root2, list2);
     
-    // [
+    ArrayList<Integer> arr = new ArrayList<>();
+    ArrayList<Integer> arr2 = new ArrayList<>();
 
-    // if(list1.size() != list2.size()) return false;
-    // for(int i = 0 ; i < list1.size(); i++)
-    // {
-    //     if(!list1.get(i).equals(list2.get(i))) return false;
-    // }
-    // return true;
+    helper(root1, arr);
+    helper(root2,arr2);
 
-    // ]
+    if(arr.size() != arr2.size()) return false;
 
-    // or
-        
-    return list1.equals(list2);
-
+    for(int i = 0 ; i < arr.size() ; i++)
+    {
+        if(!(arr.get(i).equals(arr2.get(i)))) return false;
     }
 
-    public void leafnode(TreeNode root,  List<Integer> list)
+    return true;
+
+        
+    }
+
+    void helper(TreeNode root, ArrayList arr)
     {
         if(root == null) return;
 
-        if(root.left == null && root.right == null) 
-        {
-            list.add(root.val);
-        }
-        leafnode( root.left,  list);
-        leafnode( root.right, list);
-        
+        if(root.left == null && root.right == null) arr.add(root.val);
+
+        helper(root.left, arr);
+        helper(root.right, arr);
     }
 }
