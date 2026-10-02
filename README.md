@@ -168,6 +168,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BIKRAM2725/Java-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/BIKRAM2725/Java-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +230,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/BIKRAM2725/Java-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,8 +316,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/BIKRAM2725/Java-DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/BIKRAM2725/Java-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/BIKRAM2725/Java-DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/BIKRAM2725/Java-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
