@@ -62,6 +62,7 @@
 | [0169-majority-element](https://github.com/BIKRAM2725/Java-DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/BIKRAM2725/Java-DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/BIKRAM2725/Java-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/BIKRAM2725/Java-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/BIKRAM2725/Java-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/BIKRAM2725/Java-DSA/tree/main/0283-move-zeroes/) | Easy |
@@ -163,6 +164,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/BIKRAM2725/Java-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/BIKRAM2725/Java-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/BIKRAM2725/Java-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -174,6 +176,7 @@
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/BIKRAM2725/Java-DSA/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BIKRAM2725/Java-DSA/tree/main/0064-minimum-path-sum/) | Medium |
+| [0200-number-of-islands](https://github.com/BIKRAM2725/Java-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BIKRAM2725/Java-DSA/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BIKRAM2725/Java-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Linked List
@@ -220,6 +223,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/BIKRAM2725/Java-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/BIKRAM2725/Java-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/BIKRAM2725/Java-DSA/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -315,6 +319,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/BIKRAM2725/Java-DSA/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/BIKRAM2725/Java-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/BIKRAM2725/Java-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
