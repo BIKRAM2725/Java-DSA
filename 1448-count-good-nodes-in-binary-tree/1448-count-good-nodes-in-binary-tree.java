@@ -18,27 +18,26 @@ class Solution {
     public int count = 0;
 
     public int goodNodes(TreeNode root) {
-
-
+        
     if(root == null) return 0;
-
 
     helper(root, root.val);
 
     return count;
-        
     }
-    public void helper(TreeNode root, int parent)
-    {
+
+    void helper(TreeNode root, int max){
+
         if(root == null) return;
 
-        if(root.val >= parent)
-        {
-            count++;
-            parent = root.val;
-        }
-        helper( root.left , parent);
-        helper( root.right , parent);
+        if(root.val >= max) count++;
 
+        max = Math.max(root.val, max);
+    
+        if(root.left != null) helper(root.left, max);
+        if(root.right != null) helper(root.right, max);
     }
+    
 }
+
+
