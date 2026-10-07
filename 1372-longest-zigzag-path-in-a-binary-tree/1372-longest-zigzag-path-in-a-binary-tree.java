@@ -14,35 +14,35 @@
  * }
  */
 class Solution {
-    
-    int maxStep = 0;
+
+    int count = 0;
 
     public int longestZigZag(TreeNode root) {
 
-        highest(root, 0 , true );
-        highest(root, 0 , false);
+    if(root == null) return 0;
 
-        return maxStep;
+    helper(root, false, 0);
+    helper(root, true, 0);
+
+    return count;
         
     }
-
-    void highest(TreeNode root, int step, boolean goleft)
+    void helper(TreeNode root, boolean left, int check)
     {
         if(root == null) return;
 
-        maxStep = Math.max(maxStep, step);
+        count = Math.max(count, check);
 
-        if(goleft == true)
+        if(!left)
         {
-            highest(root.left, step + 1 , false);
-            highest(root.right, 1 , true);
+            helper(root.left, true, check + 1);
+            helper(root.right, false, 1);
         }
-        else
+        
+        if(left)
         {
-            highest(root.right, step + 1 , true);
-            highest(root.left, 1 , false);
+            helper(root.right, false, check + 1);
+            helper(root.left, true, 1);
         }
-
     }
-
 }
