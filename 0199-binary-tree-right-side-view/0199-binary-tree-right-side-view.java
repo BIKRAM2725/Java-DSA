@@ -1,49 +1,86 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
+// /**
+//  * Definition for a binary tree node.
+//  * public class TreeNode {
+//  *     int val;
+//  *     TreeNode left;
+//  *     TreeNode right;
+//  *     TreeNode() {}
+//  *     TreeNode(int val) { this.val = val; }
+//  *     TreeNode(int val, TreeNode left, TreeNode right) {
+//  *         this.val = val;
+//  *         this.left = left;
+//  *         this.right = right;
+//  *     }
+//  * }
+//  */
+// class Solution {
+//     public List<Integer> rightSideView(TreeNode root) {
+
+//     List<Integer> arr = new ArrayList<>();
+
+//     Queue<TreeNode> q = new LinkedList<>();
+
+//     if(root == null) return arr;
+
+//     q.add(root);
+
+//     helper(root, arr, q);
+
+//     return arr;
+        
+//     }
+
+//     void helper(TreeNode root , List<Integer> arr, Queue<TreeNode> q)
+//     {
+//         if(root == null) return;
+
+//         while(!q.isEmpty())
+//         {
+//             int size = q.size();
+
+//             for(int i = 0 ; i < size ; i++)
+//             {
+//                 TreeNode data = q.poll();
+
+//                 if(i == size-1) arr.add(data.val);
+
+//                 if(data.left != null) q.add(data.left);
+//                 if(data.right != null) q.add(data.right);
+//             }
+//         }
+//     }
+// }
+
+
+
+
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
 
     List<Integer> arr = new ArrayList<>();
 
-    if(root == null) return arr;
-
     Queue<TreeNode> q = new LinkedList<>();
+
+    if(root == null) return arr;
 
     q.add(root);
 
     while(!q.isEmpty())
-    {
-        int size = q.size();
-
-        for(int i = 0 ; i < size ; i++)
         {
-            TreeNode data = q.poll();
+            int size = q.size();
 
-            if (i == size-1) 
+            for(int i = 0 ; i < size ; i++)
             {
-                arr.add(data.val);
-            }
+                TreeNode data = q.poll();
 
-            if(data.left != null) q.add(data.left);
-            if(data.right != null) q.add(data.right);
-            
+                if(i == size-1) arr.add(data.val);
+
+                if(data.left != null) q.add(data.left);
+                if(data.right != null) q.add(data.right);
+            }
         }
 
-    }
-
-    return arr; 
+    return arr;
+        
     }
 }
