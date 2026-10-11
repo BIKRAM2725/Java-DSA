@@ -169,6 +169,7 @@
 | [0226-invert-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/BIKRAM2725/Java-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/BIKRAM2725/Java-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/BIKRAM2725/Java-DSA/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -236,6 +237,7 @@
 | [0547-number-of-provinces](https://github.com/BIKRAM2725/Java-DSA/tree/main/0547-number-of-provinces/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/BIKRAM2725/Java-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/BIKRAM2725/Java-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/BIKRAM2725/Java-DSA/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/BIKRAM2725/Java-DSA/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -334,5 +336,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/BIKRAM2725/Java-DSA/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/BIKRAM2725/Java-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/BIKRAM2725/Java-DSA/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
