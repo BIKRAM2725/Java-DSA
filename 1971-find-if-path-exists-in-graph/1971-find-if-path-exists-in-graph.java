@@ -1,50 +1,48 @@
+// BFS
+
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
 
-    boolean[] arr = new boolean[n];
-
-    Queue<Integer> q = new LinkedList<>();
-
     List<List<Integer>> graph = new ArrayList<>();
 
-    for (int i = 0; i < n; i++) {
+    for(int i = 0 ; i < n ; i++)
+    {
         graph.add(new ArrayList<>());
     }
 
-    for (int[] edge : edges) {
+    for(int[] temp : edges)
+    {
+        int u = temp[0];
+        int v = temp[1];
 
-    int u = edge[0];
-    int v = edge[1];
-
-    graph.get(u).add(v);
-    graph.get(v).add(u);
+        graph.get(u).add(v);
+        graph.get(v).add(u);
     }
+
+    Queue<Integer> q = new LinkedList<>();
+
+    boolean[] arr = new boolean[n];
 
     q.add(source);
+    arr[source] = true; 
 
-    return bfs(q, arr, graph, destination, n);
-        
+    while(!q.isEmpty())
+    {
+        int data = q.poll();
+
+        for(int i : graph.get(data))
+        {
+            if(!arr[i])
+            {
+                arr[i] = true;
+                q.add(i);
+            }
+        }  
     }
 
-    boolean bfs(Queue<Integer> q, boolean[] arr, List<List<Integer>> graph, int destination, int n)
-    {
-        boolean check = false;
+    if(!arr[destination]) return false;
 
-        while(!q.isEmpty())
-        {
-            int data = q.poll();
-
-            if(data == destination) return true;
-
-            for(int i : graph.get(data))
-            {
-                if(!arr[i])
-                {
-                    arr[i] = true;
-                    q.add(i);
-                }
-            }
-        }
-        return false;
+    return true;
+        
     }
 }
